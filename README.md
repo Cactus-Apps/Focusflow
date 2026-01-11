@@ -1,4 +1,4 @@
-![Alt-Text](./banner.jpeg)
+![Alt-Text](./banner.png)
 
 # Focusflow
 Your ultimate productivity companion
